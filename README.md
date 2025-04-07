@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdlMGI1ZGMxYTk0NzZiMGNmZjg2N2ZmZmY1NzI5YWY5N2MxNmE5MyZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
   <h1 align="center">Hi👋, I'm Keylor Calderón</h1>
-  <h3 align="center">A Computer Engineering student from Costa Rica, passionate about learning.
+  <h3 align="center">A Computer Engineering from Costa Rica.
   </h3>
 </div>
 
