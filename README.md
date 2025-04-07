@@ -8,10 +8,6 @@
 ---
 ### About me:
 
-
-- 📖 I’m currently studing in TEC
-- 📫 How to reach me: keycal76@gmail.com
-
 ---
 <div align="left">
   <h3>Languages and Tools:</h3>
